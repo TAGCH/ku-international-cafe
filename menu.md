@@ -1,5 +1,18 @@
 ## Menu
 
-[First Food Section](#first-food-section) | ...
+[Japanese](#japanese) | ...
 
-## First Food Section
+## Japanese
+
+| Menu             | Description                                                                                                                                                                                                                         | Figure                                                      | Price |
+|:-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-------|
+| Sushi            | A popular Japanese dish consisting of vinegared rice paired with a variety of ingredients such as raw fish, seafood, and vegetables, often served with soy sauce, wasabi, and pickled ginger.                                       | ![sushi](images/japanese-food-images/sushi.png)             | 370฿  |
+| Tempura          | A light and crispy dish made by deep-frying seafood, meat, and vegetables that have been coated in a special tempura batter. It's typically served with a dipping sauce made of soy sauce, mirin, and dashi.                        | ![tempura](images/japanese-food-images/tempura.png)         | 300฿  |
+| Ramen            | A comforting and hearty noodle soup featuring Chinese-style wheat noodles served in a meat or fish-based broth, often flavored with soy sauce or miso, and topped with sliced pork, nori, green onions, and a soft-boiled egg.      | ![ramen](images/japanese-food-images/ramen.png)             | 270฿  |
+| Takoyaki         | Small, round snacks made of a wheat flour-based batter and filled with minced or diced octopus, tempura scraps, pickled ginger, and green onion, topped with takoyaki sauce, mayonnaise, and bonito flakes.                         | ![takoyaki](images/japanese-food-images/takoyaki.png)       | 170฿  |
+| Udon             | Thick and chewy wheat noodles served in a hot broth, often accompanied by tempura, vegetables, or a variety of proteins. The broth is typically made from dashi, soy sauce, and mirin, creating a savory and umami-rich experience. | ![udon](images/japanese-food-images/udon.png)               | 200฿  |
+| Sashimi          | A delicacy consisting of thinly sliced raw fish or seafood, often served on a bed of shredded daikon radish. Unlike sushi, sashimi is not accompanied by rice, allowing the natural flavors of the fish to shine.                   | ![sashimi](images/japanese-food-images/sashimi.png)         | 500฿  |
+| Miso Soup        | A traditional Japanese soup made from a stock called dashi, mixed with softened miso paste. Common ingredients include tofu, seaweed, and green onions, offering a light and savory start to any meal.                              | ![miso Soup](images/japanese-food-images/miso.png)          | 120฿  |
+| Gyoza            | Japanese pan-fried dumplings filled with ground meat, vegetables, and seasonings. The dumplings are first fried to give them a crispy bottom, then steamed to ensure the filling is juicy and flavorful.                            | ![gyoza](images/japanese-food-images/gyoza.png)             | 160฿  |
+| Okonomiyaki      | A savory Japanese pancake made with a batter of flour, eggs, shredded cabbage, and a variety of ingredients such as pork, seafood, or cheese. It's typically topped with okonomiyaki sauce, mayonnaise, bonito flakes, and seaweed. | ![okonomiyaki](images/japanese-food-images/okonomiyaki.png) | 300฿  |
+| Matcha Ice Cream | A rich and creamy dessert made from high-quality matcha (green tea) powder, which gives the ice cream a vibrant green color and a distinctive, slightly bitter yet sweet flavor that is both refreshing and indulgent.              | ![matcha](images/japanese-food-images/matcha.png)           | 150฿  |
