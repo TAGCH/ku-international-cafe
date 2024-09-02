@@ -6,4 +6,6 @@ This is the international cafe in IUP..
 
 | Cuisine                               | Contributor        |
 |:--------------------------------------|--------------------|
-|[Italian](menu.md#italian-food)                                       |    Tanakorn                |
+| [Thai Food](menu.md#thai-food)        | Pisit              |
+| [Indian Food](menu.md#indian-food)    | Chamarak           |
+| [Italian Food](menu.md#italian-food)       | Tanakorn           |
