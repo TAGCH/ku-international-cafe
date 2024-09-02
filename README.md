@@ -6,4 +6,4 @@ This is the international cafe in IUP..
 
 | Cuisine                               | Contributor        |
 |:--------------------------------------|--------------------|
-|                                       |                    |
+| [Thai Food](menu.md#thai-food)        | Pisit              |
