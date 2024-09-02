@@ -11,3 +11,8 @@
 | Ravioli   | A pasta wrap aroud meat filling shape in rectangular style with an iconic edge cut. |![italian-food4](images/italian-food-images/ravioli.jpg) | 189฿ |        |
 | Risotto   | Rice menu from Italy, pack with a cheesy flavor. |![italian-food5](images/italian-food-images/risotto.jpg) | 159฿ |        |
 | Tiramisu   | A combination of desert and coffee to end your beautiful meal. |![italian-food6](images/italian-food-images/tiramisu.jpg) | 139฿ |        |
+
+## Beverages
+|          Menu               |           Description            | Figure |Price  |
+|:----------------------------|----------------------------------|--------|------:|
+|Espresso             |Rich aroma that kick through your nose. Perfect start for your day!| ![Espresse](images/beverages/espresso.jpg) | 45฿ |
