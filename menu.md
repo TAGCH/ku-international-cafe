@@ -1,6 +1,6 @@
 ## Menu
 
-[Thai Food](#thai-food) | 
+[Thai Food](#thai-food) | [Beverage](#beverage) |
 
 ## Thai Food
 |          Menu               |           Description            | Figure |Price  |
@@ -15,3 +15,8 @@
 |  Sour Curry with Mixed Vegetables(Gang Som Pak Ruam) | The Thai fusion of sweet, sour and spicy are all combined into another ultra vibrant soup. |![Gang Som Pak Ruam](images/thai-food-images/Thai-8.jpg) | 129฿ |
 |  Thai massaman curry(Gang Massaman) | Massaman is a sweet curry that originates from Southern Thailand as a Halal dish. |![Gang Massaman](images/thai-food-images/Thai-9.jpg) | 159฿ |
 |  Stir Fried Chicken with Curry Powder(Gai Pad Pongali) | Chicken, onions, tomatoes and peppers are brought alive with a delicate Thai yellow curry paste. |![Gai Pad Pongali](images/thai-food-images/Thai-10.jpg) | 109฿ |
+
+## Beverages
+|          Menu               |           Description            | Figure |Price  |
+|:----------------------------|----------------------------------|--------|------:|
+|Iced Thai Tea                |Sweet and creamy Thai tea with a blend of spices, served chilled. | ![Thai-Tea](images/beverages/Thai-Tea.jpg) | 45฿ |
