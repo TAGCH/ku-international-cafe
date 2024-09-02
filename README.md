@@ -9,3 +9,4 @@ The IUP Cafe, located within Kasetsart University's International Undergraduate 
 | [Thai Food](menu.md#thai-food)        | Pisit              |
 | [Indian Food](menu.md#indian-food)    | Chamarak           |
 | [Italian Food](menu.md#italian-food)       | Tanakorn           |
+| [Japanese Food](menu.md#japanese) | Khongnat    |
